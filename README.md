@@ -12,11 +12,11 @@ This is a university work which is a console application to organize employees (
 the work is in french.
 
 ## ScreenShots:
-1 - Welcome page
+#### 1 - Welcome page
  ![Welcome Page](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap1.PNG)  
  
-2 - The Menu
+#### 2 - The Menu
  ![Menu](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap2.PNG)  
  
-3 - Show an employee
+#### 3 - Show an employee
  ![Show an employee](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap3.PNG)  
