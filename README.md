@@ -7,7 +7,11 @@ it was done by:
  - Manipulate files.
  - Understand how files work.
  - learn to program with C.
- 
- ## Screen Shot:
- 
- 
+
+#### note: 
+the work is in french.
+
+## ScreenShots:
+ ![Welcome Page](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap1.PNG)  
+ ![Menu](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap2.PNG)  
+ ![Show an employee](https://github.com/younes38/Teachers/blob/master/ScreenShots/cap3.PNG)  
