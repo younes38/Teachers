@@ -1,6 +1,6 @@
 # Teachers
 This is a university work which is a console application to organize employees (adding, moving, removing).  
-it was done by:
+#### It was done by:
  - [Younes Mimene](https://github.com/younes38)
  - [Kadri Mohamed El Said](https://github.com/iDOVICSA)
 ## Goals:
